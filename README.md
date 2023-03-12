@@ -7,7 +7,7 @@ It is for sysupgrade, contains modules for 802.1x connection via wire
 ## Technical data
 
 [OpenWrt TechData](https://openwrt.org/toh/hwdata/xiaomi/xiaomi_r4ac_international_100m) \
-[DevWiki TechData](https://deviwiki.com/wiki/Xiaomi_Mi_Router_4A_100M_(R4AC)) \
+[DevWiki TechData](https://deviwiki.com/wiki/Xiaomi_Mi_Router_4A_100M_(R4AC))
 
 ## Installation
 
